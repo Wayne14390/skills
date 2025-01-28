@@ -1,0 +1,36 @@
+.about{
+    background-image: url("https://cdn.pixabay.com/photo/2020/03/14/05/38/screw-4929711_960_720.jpg");
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.card img{
+    height: 40vh;
+    width: 50vh;
+}
+.icon{
+    margin-left: 160px;
+    color: blue;
+}
+.card{
+    padding: 30px;
+    border-style: none;
+
+}
+.cards{
+    display: flex;
+    margin: 60px;
+}
+.row{
+    margin: 50px;
+}
+.message{
+    height: 20vh;
+    width: 500px;
+}
+.send{
+    width: 500px;
+}
+.name{
+    width: 220px;
+}
