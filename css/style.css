@@ -34,3 +34,54 @@
 .name{
     width: 220px;
 }
+.contact{
+    margin-left: 160px;
+    color: green;
+
+}
+.contacts{
+    float: right;
+    margin-right: 100px;
+}
+.home{
+    background-image: url("../resources/ai-generated-8113893_1280.jpg");
+    width: 100%;
+    height: 700px;
+    color: white;
+    padding: 60px;
+
+}
+p{
+    font-weight: bold;
+}
+h6{
+    font-weight: bold;
+}
+h4{
+    font-weight: bold;
+}
+h2{
+    font-weight: bold;
+}
+.dots {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+}
+
+.dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 0 5px;
+    background-color: #bbb;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.dot.active {
+    background-color: #717171;
+}
+
+
